@@ -1,2 +1,3 @@
 Plik testowy
 Plik wsadowy
+Plik testowy2
